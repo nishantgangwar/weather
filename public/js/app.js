@@ -1,5 +1,3 @@
-console.log("Hi your Client Side Web page is installeds");
-
 
 
 const wheatherForm = document.querySelector('form');
